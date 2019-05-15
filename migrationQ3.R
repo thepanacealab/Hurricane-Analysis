@@ -18,7 +18,7 @@ us.map <- us.map[!us.map$STATEFP %in% c("81", "84", "86", "87", "89", "71", "76"
 
 ###Postgresql
 drv <- dbDriver("PostgreSQL")
-conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='cynthiak',password='Kamalendra1985')
+conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='####',password='####')
 
 #Getting all the tweets with geocoded information
 allTweetsDuringQ3<-dbGetQuery(conn,
