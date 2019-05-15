@@ -10,7 +10,7 @@ residentList <- readRDS("/home/cynthiak/residents.Rds")
 us.map <- readOGR("/home/cynthiak/county", "tl_2018_us_county", stringsAsFactors = FALSE)
 
 drv <- dbDriver("PostgreSQL")
-conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='cynthiak',password='Kamalendra1985')
+conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='####',password='####')
 
 #Getting all the tweets with geocoded information
 allTweetsDuringQ1<-dbGetQuery(conn,
