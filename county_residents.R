@@ -17,7 +17,7 @@ tweetcountyMaria<-data.frame("FIPS" = c("72001","72003","72005","72007","72009",
 tweetcounties_all<-rbind(tweetcountyIrma, tweetcountyMaria)
 
 drv <- dbDriver("PostgreSQL")
-conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='cynthiak',password='Kamalendra1985')
+conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='#####',password='#####')
 
 counties <- readOGR("/home/cynthiak/county", "tl_2018_us_county", stringsAsFactors = FALSE)
 ### Subset the counties to only the ones of interest
