@@ -1,0 +1,182 @@
+StateCode(FIPS),CountyCode(FIPS),COUNTYFIPS,AreaName,Status
+37,001,37001,Alamance County,None
+37,003,37003,Alexander County,None
+37,005,37005,Alleghany County,None
+37,007,37007,Anson County,None
+37,009,37009,Ashe County,None
+37,011,37011,Avery County,None
+37,013,37013,Beaufort County,None
+37,015,37015,Bertie County,None
+37,017,37017,Bladen County,None
+37,019,37019,Brunswick County,None
+37,021,37021,Buncombe County,None
+37,023,37023,Burke County,None
+37,025,37025,Cabarrus County,None
+37,027,37027,Caldwell County,None
+37,029,37029,Camden County,None
+37,031,37031,Carteret County,Emergency
+37,033,37033,Caswell County,None
+37,035,37035,Catawba County,None
+37,037,37037,Chatham County,None
+37,039,37039,Cherokee County,None
+37,041,37041,Chowan County,None
+37,043,37043,Clay County,None
+37,045,37045,Cleveland County,None
+37,047,37047,Columbus County,None
+37,049,37049,Craven County,None
+37,051,37051,Cumberland County,None
+37,053,37053,Currituck County,Emergency
+37,055,37055,Dare County,Emergency
+37,057,37057,Davidson County,None
+37,059,37059,Davie County,None
+37,061,37061,Duplin County,None
+37,063,37063,Durham County,None
+37,065,37065,Edgecombe County,None
+37,067,37067,Forsyth County,None
+37,069,37069,Franklin County,None
+37,071,37071,Gaston County,None
+37,073,37073,Gates County,None
+37,075,37075,Graham County,None
+37,077,37077,Granville County,None
+37,079,37079,Greene County,None
+37,081,37081,Guilford County,None
+37,083,37083,Halifax County,None
+37,085,37085,Harnett County,None
+37,087,37087,Haywood County,None
+37,089,37089,Henderson County,None
+37,091,37091,Hertford County,None
+37,093,37093,Hoke County,None
+37,095,37095,Hyde County,Emergency
+37,097,37097,Iredell County,None
+37,099,37099,Jackson County,None
+37,101,37101,Johnston County,None
+37,103,37103,Jones County,None
+37,105,37105,Lee County,None
+37,107,37107,Lenoir County,None
+37,109,37109,Lincoln County,None
+37,111,37111,McDowell County,None
+37,113,37113,Macon County,None
+37,115,37115,Madison County,None
+37,117,37117,Martin County,None
+37,119,37119,Mecklenburg County,None
+37,121,37121,Mitchell County,None
+37,123,37123,Montgomery County,None
+37,125,37125,Moore County,None
+37,127,37127,Nash County,None
+37,129,37129,New Hanover County,None
+37,131,37131,Northampton County,None
+37,133,37133,Onslow County,None
+37,135,37135,Orange County,None
+37,137,37137,Pamlico County,Emergency
+37,139,37139,Pasquotank County,None
+37,141,37141,Pender County,None
+37,143,37143,Perquimans County,None
+37,145,37145,Person County,None
+37,147,37147,Pitt County,None
+37,149,37149,Polk County,None
+37,151,37151,Randolph County,None
+37,153,37153,Richmond County,None
+37,155,37155,Robeson County,None
+37,157,37157,Rockingham County,None
+37,159,37159,Rowan County,None
+37,161,37161,Rutherford County,None
+37,163,37163,Sampson County,None
+37,165,37165,Scotland County,None
+37,167,37167,Stanly County,None
+37,169,37169,Stokes County,None
+37,171,37171,Surry County,None
+37,173,37173,Swain County,None
+37,175,37175,Transylvania County,None
+37,177,37177,Tyrrell County,Emergency
+37,179,37179,Union County,None
+37,181,37181,Vance County,None
+37,183,37183,Wake County,None
+37,185,37185,Warren County,None
+37,187,37187,Washington County,None
+37,189,37189,Watauga County,None
+37,191,37191,Wayne County,None
+37,193,37193,Wilkes County,None
+37,195,37195,Wilson County,None
+37,197,37197,Yadkin County,None
+37,199,37199,Yancey County,None
+72,001,72001,Adjuntas Municipio,Mandatory
+72,003,72003,Aguada Municipio,Mandatory
+72,005,72005,Aguadilla Municipio,Mandatory
+72,007,72007,Aguas Buenas Municipio,Mandatory
+72,009,72009,Aibonito Municipio,Mandatory
+72,011,72011,Añasco Municipio,Mandatory
+72,013,72013,Arecibo Municipio,Mandatory
+72,015,72015,Arroyo Municipio,Mandatory
+72,017,72017,Barceloneta Municipio,Mandatory
+72,019,72019,Barranquitas Municipio,Mandatory
+72,021,72021,Bayamón Municipio,Mandatory
+72,023,72023,Cabo Rojo Municipio,Mandatory
+72,025,72025,Caguas Municipio,Mandatory
+72,027,72027,Camuy Municipio,Mandatory
+72,029,72029,Canóvanas Municipio,Mandatory
+72,031,72031,Carolina Municipio,Mandatory
+72,033,72033,Cataño Municipio,Mandatory
+72,035,72035,Cayey Municipio,Mandatory
+72,037,72037,Ceiba Municipio,Mandatory
+72,039,72039,Ciales Municipio,Mandatory
+72,041,72041,Cidra Municipio,Mandatory
+72,043,72043,Coamo Municipio,Mandatory
+72,045,72045,Comerío Municipio,Mandatory
+72,047,72047,Corozal Municipio,Mandatory
+72,049,72049,Culebra Municipio,Mandatory
+72,051,72051,Dorado Municipio,Mandatory
+72,053,72053,Fajardo Municipio,Mandatory
+72,054,72054,Florida Municipio,Mandatory
+72,055,72055,Guánica Municipio,Mandatory
+72,057,72057,Guayama Municipio,Mandatory
+72,059,72059,Guayanilla Municipio,Mandatory
+72,061,72061,Guaynabo Municipio,Mandatory
+72,063,72063,Gurabo Municipio,Mandatory
+72,065,72065,Hatillo Municipio,Mandatory
+72,067,72067,Hormigueros Municipio,Mandatory
+72,069,72069,Humacao Municipio,Mandatory
+72,071,72071,Isabela Municipio,Mandatory
+72,073,72073,Jayuya Municipio,Mandatory
+72,075,72075,Juana Díaz Municipio,Mandatory
+72,077,72077,Juncos Municipio,Mandatory
+72,079,72079,Lajas Municipio,Mandatory
+72,081,72081,Lares Municipio,Mandatory
+72,083,72083,Las Marías Municipio,Mandatory
+72,085,72085,Las Piedras Municipio,Mandatory
+72,087,72087,Loíza Municipio,Mandatory
+72,089,72089,Luquillo Municipio,Mandatory
+72,091,72091,Manatí Municipio,Mandatory
+72,093,72093,Maricao Municipio,Mandatory
+72,095,72095,Maunabo Municipio,Mandatory
+72,097,72097,Mayagüez Municipio,Mandatory
+72,099,72099,Moca Municipio,Mandatory
+72,101,72101,Morovis Municipio,Mandatory
+72,103,72103,Naguabo Municipio,Mandatory
+72,105,72105,Naranjito Municipio,Mandatory
+72,107,72107,Orocovis Municipio,Mandatory
+72,109,72109,Patillas Municipio,Mandatory
+72,111,72111,Peñuelas Municipio,Mandatory
+72,113,72113,Ponce Municipio,Mandatory
+72,115,72115,Quebradillas Municipio,Mandatory
+72,117,72117,Rincón Municipio,Mandatory
+72,119,72119,Río Grande Municipio,Mandatory
+72,121,72121,Sabana Grande Municipio,Mandatory
+72,123,72123,Salinas Municipio,Mandatory
+72,125,72125,San Germán Municipio,Mandatory
+72,127,72127,San Juan Municipio,Mandatory
+72,129,72129,San Lorenzo Municipio,Mandatory
+72,131,72131,San Sebastián Municipio,Mandatory
+72,133,72133,Santa Isabel Municipio,Mandatory
+72,135,72135,Toa Alta Municipio,Mandatory
+72,137,72137,Toa Baja Municipio,Mandatory
+72,139,72139,Trujillo Alto Municipio,Mandatory
+72,141,72141,Utuado Municipio,Mandatory
+72,143,72143,Vega Alta Municipio,Mandatory
+72,145,72145,Vega Baja Municipio,Mandatory
+72,147,72147,Vieques Municipio,Mandatory
+72,149,72149,Villalba Municipio,Mandatory
+72,151,72151,Yabucoa Municipio,Mandatory
+72,153,72153,Yauco Municipio,Mandatory
+78,10,78010,St. Croix,Mandatory
+78,20,78020,St. John,Mandatory
+78,30,78030,St. Thomas,Mandatory
