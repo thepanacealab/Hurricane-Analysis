@@ -1,12 +1,3 @@
-library(RPostgreSQL)
-library(sqldf)
-library(ggplot2)
-library(syuzhet)
-
-residentList <- readRDS("/home/cynthiak/Maria/residentsMaria.Rds")
-
-drv <- dbDriver("PostgreSQL")
-conn <-dbConnect(drv,host='localhost',port='5432',dbname='psh_tweets',user='cynthiak',password='Kamalendra1985')
 
 #Getting all the tweets with geocoded information
 allTweetsDay16<-dbGetQuery(conn,
